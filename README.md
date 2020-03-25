@@ -1,16 +1,9 @@
-# coronavirusquiz
+# Corona Virus Quiz
 
-A new Flutter application.
+A new quiz application in Flutter to create awareness about the corona virus pandemic.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_2020-03-25-22-42-53-781_com example coronavirusquiz](https://user-images.githubusercontent.com/36985639/77568198-46f5b100-6eee-11ea-86e9-a774d9eae3d8.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2020-03-25-22-43-00-450_com example coronavirusquiz](https://user-images.githubusercontent.com/36985639/77568346-7c9a9a00-6eee-11ea-983e-f139474a9684.jpg)
